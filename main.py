@@ -2,7 +2,8 @@
 UMKC CS449
 Sprint 0
 Due Date: 09/09/2025
-Name: Marshall Knisal"""
+Name: Marshall Knisal
+This project was reuploaded to a properly formatted repository on 0/28/2025"""
 
 import tkinter as tk
 from functools import partial
